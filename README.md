@@ -1,2 +1,3 @@
 # training-neural-networks-notebook
-Notebook to accompany blog post
+* Learning-Neural-Networks in Python from various online sources and Github. 
+* Utilizing Theano/Tensorflow/Keras and Torch.
